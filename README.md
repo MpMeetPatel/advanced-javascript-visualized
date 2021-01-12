@@ -6,7 +6,7 @@
 <br />
 
 <p>
-    Take a sneak pick to get idea regarding book.
+    Take a sneak pick to get an idea regarding book.
 </p>
 
 [Youtube - Advanced JavaScript Visualized😁](https://www.youtube.com/watch?v=SAPoWxt2ddQ&ab_channel=overflow-hidden) 
