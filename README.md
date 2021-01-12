@@ -6,6 +6,14 @@
 <br />
 
 <p>
+    Take a sneak pick to get idea regarding book.
+</p>
+
+[Youtube - Advanced JavaScript Visualized😁](https://www.youtube.com/watch?v=SAPoWxt2ddQ&ab_channel=overflow-hidden) 
+<br />
+
+
+<p>
     <img src="./book-front.jpg" height="auto" width="auto" />
 </p>
 <br />
