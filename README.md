@@ -28,7 +28,7 @@
 
 <br />
 
-<h4 align="left"> Auther </h4>
+<h4 align="left"> Author </h4>
     <li>
         <a href="https://meetmywords.ml" target="_blank">Meet Patel</a>
     </li>
