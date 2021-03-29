@@ -24,7 +24,7 @@
 | ----------------             | :----------------------------------------------------- |
 | Amazon  Internation          | [Link](https://www.amazon.com/dp/B08SNXC66S)                           |
 | Amazon India                 | [Link](https://www.amazon.in/dp/B08SNXC66S/) |
-| Blurb                        | [Link](https://www.blurb.com/b/10535107-advanced-javascript-visualized) |
+| Gumroad                      | [Link](https://gumroad.com/l/zhkzz) |
 
 <br />
 
